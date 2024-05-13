@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37845670418",
+    "project_id": "bookinguru-app",
+    "storage_bucket": "bookinguru-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37845670418:android:734a5f157f218a899cd6cb",
+        "android_client_info": {
+          "package_name": "com.example.bookinguru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJv7W2AiB2ByLqPuLtmutnZtf0pXEKA0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
